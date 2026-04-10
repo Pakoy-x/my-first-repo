@@ -1,6 +1,3 @@
-# my-first-repo
-I'm still learning while yearning.
-
 <h1 align="center">Hi, I'm Trixee</h1>
 <h3 align="center">A BSIT student who enjoys learning code, especially in graphic design and basic programming.I like to explore easy ways to code but i have short term memory so i tend to forget everything i learned, but i'm trying to improve my weaknesses..</h3>
 
